@@ -1,0 +1,61 @@
+body {
+    text-decoration: none;
+    font-family: 'Mulish', sans-serif;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navbar {
+    font-size: 1.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-size: 2rem;
+}
+
+.nav-link {
+    color: #3B6F91 !important;
+}
+
+.nav-link:hover {
+    color: #993955 !important;
+}
+
+.heading {
+    color: #CA165E !important;
+}
+
+.para {
+    font-size: 1.5rem;
+}
+
+.ad {
+    font-size: 1.5rem;
+    color: darkgreen;
+    font-weight: bold;
+}
+
+.card-name {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+}
+
+.card-span {
+    background:#fff;
+    padding:0 10px;
+}
+
+
+#test-coming {
+    color: green !important;
+}
